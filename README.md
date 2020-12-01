@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ##Welcome to my github, feel free to checkout some of my projects/past work. 
-###Warning: Proceed with caution###
+
+Warning: Proceed with caution
 
 **Email me at hey@daisymurillo.com** 
 ***daisymurillo.com***
