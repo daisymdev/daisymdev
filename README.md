@@ -5,7 +5,6 @@ Welcome to my github, feel free to checkout some of my projects/past work.
 Warning: Proceed with caution
 
 **Email me at hey@daisymurillo.com** 
-***daisymurillo.com***
 
 <!--
 **daisymdev/daisymdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
