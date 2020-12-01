@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Welcome to my github, feel free to checkout some of my projects/past work. 
+Welcome to my github, feel free to checkout some of my projects/past work. 
 
 Warning: Proceed with caution
 
